@@ -7,15 +7,15 @@ git 是一个很强大的分布式版本管理工具，它不但适用于管理�
 ## 常用命令
 #### 正常提交代码流程
 - 1.新建一个本地文件夹
-- - git init
+- - `git init`
 - 2.克隆账号的文件
-- - git clone 地址
+- - `git clone 地址`
 - 3.添加改动的文件
-- - git add .
+- - `git add .`
 - 4.提交至本地
-- - git commit -"备注"
+- - `git commit -"备注"`
 - 5.将本地项目上传至远端库
-- - git push origin master
+- - `git push origin master`
 #### 初始化命令(windows)
 - `git config --global user.name 'userName'` 设置git账户，userName为你的git账号
 - `git config --global user.email 'email'`
